@@ -6,7 +6,6 @@ This is a React Native application for an expo-dev app. The app features a Home 
 
 # Table of Contents
 * How to install it
-* 
 * Screenshots
 * Contributing
 * License
